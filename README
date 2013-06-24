@@ -7,3 +7,5 @@ THIS APP SHOWS
           
           NOTE: This doesn't use Content Resolver to get the thumbnails for the grid. I am creating the thumbnails on the fly
           Please refer to app-snapshot.png to see the screenshots of the gallery app.
+
+Look up http://myskillset.wordpress.com/2013/06/24/gallery-app-in-android/ for more info on this app
