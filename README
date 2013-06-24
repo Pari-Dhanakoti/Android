@@ -1,0 +1,9 @@
+THIS APP SHOWS 
+          - Display a gallery within your app
+          - Add images to it via camera or phone's gallery
+          - Click open an image to show the full view
+          - Delete the image
+          - Share it to Facebook and other social media apps.
+          
+          NOTE: This doesn't use Content Resolver to get the thumbnails for the grid. I am creating the thumbnails on the fly
+          Please refer to app-snapshot.png to see the screenshots of the gallery app.
